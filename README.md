@@ -455,5 +455,3 @@ You can answer these in your study journal; share them if you want feedback.
      - Use `createElement` everywhere?
      - Or combine them (e.g. `innerHTML = ""` for reset, `createElement` + `append` to build items)?
    - Write down your “rule of thumb” for future projects.
-
-If you can clearly answer these questions and see each task’s effects in the browser, you have successfully completed **Module 07 – Lesson 09: innerHTML vs createElement()**.
