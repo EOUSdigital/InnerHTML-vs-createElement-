@@ -2,7 +2,7 @@
 
 ## Overview
 
-In earlier lessons you learned how to:
+In earlier lessons, you learned how to:
 
 - Select elements (`querySelector`, `querySelectorAll`)
 - Traverse the DOM (`parentElement`, `children`, `childNodes`, `nextElementSibling`, etc.)
